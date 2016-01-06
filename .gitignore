@@ -1,2 +1,4 @@
 *.DS_Store
+*.gitignore
+zScoreToNumSamples/.ipynb_checkpoints
 NOAA_Webscraper/.ipynb_checkpoints
